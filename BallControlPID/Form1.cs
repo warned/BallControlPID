@@ -152,12 +152,12 @@ namespace CircleGame
                 x2 = x1;
                 y1 = (int)(((-myBall.fPos[1]) + myBall.stripeH[i,1] + (pictureBox1.Height / 2)) - 4);
                 y2 = (int)(((-myBall.fPos[1]) + myBall.stripeH[i,1]+(pictureBox1.Height / 2)) + 4);
-                g.DrawLine(p, x1,y1, x2, y2);// Horizontal
+                //g.DrawLine(p, x1,y1, x2, y2);// Horizontal
                 y1 = (int)((myBall.stripeV[i,1] - myBall.fPos[1] + (pictureBox1.Height / 2)));
                 y2 = y1;
                 x1 = (int)(((myBall.fPos[0]) + myBall.stripeV[i,0] + (pictureBox1.Width / 2))-1);
                 x2 = (int)(((myBall.fPos[0]) + myBall.stripeV[i, 0] + (pictureBox1.Width / 2))+1);
-                g.DrawLine(p, x1, y1, x2, y2);// Vertical
+                //g.DrawLine(p, x1, y1, x2, y2);// Vertical
             }
         }
 

@@ -1,3 +1,12 @@
 D:\Documents\Visual Studio 2015\Projects\Circle Game\BallControlPID\CircleGame\bin\Debug\CircleGame.exe.config
 D:\Documents\Visual Studio 2015\Projects\Circle Game\BallControlPID\CircleGame\obj\Debug\CircleGame.exe
 D:\Documents\Visual Studio 2015\Projects\Circle Game\BallControlPID\CircleGame\obj\Debug\CircleGame.pdb
+C:\tmp\BallControlPID\BallControlPID\bin\Debug\CircleGame.exe.config
+C:\tmp\BallControlPID\BallControlPID\obj\Debug\CircleGame.exe
+C:\tmp\BallControlPID\BallControlPID\obj\Debug\CircleGame.pdb
+C:\tmp\BallControlPID\BallControlPID\bin\Debug\CircleGame.exe
+C:\tmp\BallControlPID\BallControlPID\bin\Debug\CircleGame.pdb
+C:\tmp\BallControlPID\BallControlPID\obj\Debug\BallControlPID.csprojResolveAssemblyReference.cache
+C:\tmp\BallControlPID\BallControlPID\obj\Debug\CircleGame.Form1.resources
+C:\tmp\BallControlPID\BallControlPID\obj\Debug\CircleGame.Properties.Resources.resources
+C:\tmp\BallControlPID\BallControlPID\obj\Debug\BallControlPID.csproj.GenerateResource.Cache
